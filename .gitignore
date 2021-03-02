@@ -1,6 +1,5 @@
 /pkg
 /src
-/.SRCINFO
 /pango-1.42.4.tar.xz
 *.deb
 *.pkg.tar.zst
