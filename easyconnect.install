@@ -154,7 +154,7 @@ pre_remove() {
 
 	    pidof svpnservice
 	    if [ $? -eq 0 ];then
-	        killall svpnservice 
+	        killall svpnservice
 	    fi
 	    pidof svpnservice
 	    if [ $? -eq 0 ];then

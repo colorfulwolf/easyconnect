@@ -6,10 +6,9 @@ pkgbase = easyconnect
 	install = easyconnect.install
 	arch = x86_64
 	license = custom
-	source = http://download.sangfor.com.cn/download/product/sslvpn/pkg/linux_767/EasyConnect_x64_7_6_7_3.deb
+	source = http://download.sangfor.com.cn/download/product/sslvpn/pkg/linux_01/EasyConnect_x64.deb
 	source = http://ftp.acc.umu.se/pub/GNOME/sources/pango/1.42/pango-1.42.4.tar.xz
-	md5sums = 89441c8eadab3c6c8f701f32d680d0b6
+	md5sums = 46803364711cca5d22388c22d8e5c7c6
 	md5sums = deb171a31a3ad76342d5195a1b5bbc7c
 
 pkgname = easyconnect
-
