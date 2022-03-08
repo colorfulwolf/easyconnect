@@ -3,7 +3,7 @@
 # Contributor: arthur_0 <maxc@stateoftheart.pw>
 
 pkgname=easyconnect
-pkgver=7.6.3.46803364711cca5d22388c22d8e5c7c6
+pkgver=7.6.3.3
 pkgrel=1
 pkgdesc="Support access to ssl vpn. With easyconect，you can secure and speed up connection to cooperate network at ease!"
 arch=('x86_64')
@@ -12,7 +12,7 @@ license=('custom')
 install=${pkgname}.install
 source=("http://download.sangfor.com.cn/download/product/sslvpn/pkg/linux_01/EasyConnect_x64.deb"
         "http://ftp.acc.umu.se/pub/GNOME/sources/pango/1.42/pango-1.42.4.tar.xz")
-md5sums=('46803364711cca5d22388c22d8e5c7c6'
+md5sums=('60f012813099f2bd3aa92d77408e873e'
         'deb171a31a3ad76342d5195a1b5bbc7c')
 package(){
         tar xzf data.tar.gz -C "${pkgdir}"
